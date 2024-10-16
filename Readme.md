@@ -55,9 +55,6 @@ For efficient data storage and management, the project utilizes a MongoDB databa
   npm start
 ```
 
-## Video Explanation Of The Assignment
-
-Please visit : [Video Explanation](https://drive.google.com/file/d/1i-uGAQPmuSSnO-e1WUYq7W_57v6gu2E5/view?usp=sharing).
 
 
 
